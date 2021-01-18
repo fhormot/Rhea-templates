@@ -1,0 +1,16 @@
+node_modules/
+
+# Build Folders
+app/
+dist/
+icons/
+
+# MacOS Finder
+.DS_Store
+
+# WebStorm Project Folder
+.idea
+
+# Jest Snapshot Folder
+**/__snapshots__/
+
