@@ -1,7 +1,7 @@
 {
-  "name": "electrate-edited-template",
+  "name": "rhea-templates",
   "version": "1.0.0",
-  "description": "A personal minimal Electron application",
+  "description": "A template evaluator for a GUI suite for analog/mixed-signal IC verification",
   "main": "app/main.js",
   "scripts": {
     "postinstall": "install-app-deps",
@@ -11,7 +11,7 @@
     "release": "gulp release",
     "make-icon": "gulp make-icon"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/fhormot/rhea-templates",
   "keywords": [],
   "author": "Filip Hormot",
   "license": "CC0-1.0",
